@@ -3,7 +3,7 @@
 
 
 
-In this app I' am creating a workout tracker so no one skips leg day. I am using a MongoDB with a Mongoose schema & routes are handeled with Express.
+In this app I am creating a workout tracker so no one skips leg day. I am using a MongoDB with a Mongoose schema & routes are handeled with Express.
 
 Live site: 
 
